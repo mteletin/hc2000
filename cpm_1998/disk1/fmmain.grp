@@ -1,0 +1,42 @@
+main
+4 1
+Programs\Programs menu;progs
+Applications\Applications menu;applic
+System\System-programs menu;sys
+EXIT\This will end your session;halt
+progs
+4 2
+Pascal\Z80 version 1.0 (I8080 4.4) Turbo-Pascal;001
+Zsid\Z80 instant assembler (debugger);002
+Power\Power files-manager program by Paul Breder;003
+<RET>\Return to main menu;main
+applic
+4 3
+Files-manager\The files manager '97 ultimate version;fileman
+Digital II\The digital entertainment;004
+CP/M Games\The CP/M 2.22 games colection;games
+<RET>\Returt to main menu;main
+sys
+7 4
+Sysgen\System Generator ver 2.22;005
+Format a:\Formats the disk from drive a:;006
+Format b:\Formats the disk from drive b: (if you have one);007
+Format c:\Formats the harddisk (if you have one);008
+Disk-Utilitar\Complete disk utilitar functions ver 2.22;009
+Directory\Complete directory functions ver 2.22;010
+<RET>\Return to main menu;main
+fileman
+6 5
+File manager 3.0\The complete files manager program for drives a&b;011
+FM-Player 3.0\The complete AUDio browser player;012
+FM-Converter 3.0\The complete browser&converter program MOD to AUD;013
+FM-Converter 4.0\The complete browswe&converter program SCR to IMG;018
+FM-TTA 3.0\The complete text compressor/optimizer 3.0;014
+<RET>\Return to ~Applications~ menu;applic
+games
+4 6
+Robo 1.0\Robocity 1.0 real adventure;015
+Robo 2.0\Robocity 2.0 logical adventure;016
+Minesweeper 1.0\Minesweeper 1.0 optimized after first version;017
+<RET>\Return to ~Applications~ menu;applic
+
